@@ -39,6 +39,6 @@ y = y*(x_RMS/y_RMS)             # Se iguala el nivel de la señal de
 
 sf.write('audio files\\DrumSolo\\DrumSolo_0.75_.wav', y, fs)
 # Se guarda la señal escalada
-
+asd
 
 
